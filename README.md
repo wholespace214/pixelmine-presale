@@ -31,3 +31,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+![pixelmine io_ (2)](https://user-images.githubusercontent.com/105137625/197093415-8e3a1aea-633c-4307-bbc8-c65deac1de27.png)
